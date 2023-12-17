@@ -1,4 +1,6 @@
-Projeto Registro de pedidos de Pizzaria
+Projeto 
+
+Registro de pedidos para uma pizzaria
 
 Programa de console com funções simples de registrar um pedido de pizza, registrar um combo de esfiha, avaliar uma pizza, avaliar um pacote de esfiha.
 Projeto desenvolvido com o aprendizado do curso C#: Dominando Orientação a Objetos da Alura!
