@@ -1,0 +1,46 @@
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Pizzaria.exe
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Pizzaria.deps.json
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Pizzaria.runtimeconfig.json
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Pizzaria.dll
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Pizzaria.pdb
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Colorful.Console.dll
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pizzaria.csproj.AssemblyReference.cache
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pizzaria.AssemblyInfoInputs.cache
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pizzaria.AssemblyInfo.cs
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pizzaria.csproj.CopyComplete
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pizzaria.dll
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Pizzaria.dll
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pizzaria.pdb
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pizzaria.genruntimeconfig.cache
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Pizzaria.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Pizzaria.exe
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Pizzaria.deps.json
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Pizzaria.runtimeconfig.json
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Pizzaria.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Pizzaria.pdb
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Colorful.Console.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\obj\Debug\net8.0\Pizzaria.csproj.AssemblyReference.cache
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\obj\Debug\net8.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\obj\Debug\net8.0\Pizzaria.AssemblyInfoInputs.cache
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\obj\Debug\net8.0\Pizzaria.AssemblyInfo.cs
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\obj\Debug\net8.0\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\obj\Debug\net8.0\Pizzaria.csproj.CopyComplete
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\obj\Debug\net8.0\Pizzaria.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\obj\Debug\net8.0\refint\Pizzaria.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\obj\Debug\net8.0\Pizzaria.pdb
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\obj\Debug\net8.0\Pizzaria.genruntimeconfig.cache
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\obj\Debug\net8.0\ref\Pizzaria.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\vitor.santos\Desktop\Pizzaria\ConsoleApp1\bin\Debug\net8.0\OpenAI_API.dll

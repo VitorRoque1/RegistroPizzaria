@@ -1,0 +1,17 @@
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Colorful.Console.dll
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\vitor.santos\Desktop\Aulas\Primeiro projet\Pratica\Cardapio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CopyComplete
