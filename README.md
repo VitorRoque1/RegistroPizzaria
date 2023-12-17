@@ -1,4 +1,4 @@
-![image](https://github.com/VitorRoque1/RegistroPizzaria/assets/153464680/4dd89354-b441-4cf8-a988-14cb213b63b9)Projeto 
+Projeto 
 
 Registro de pedidos para uma pizzaria
 
